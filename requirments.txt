@@ -1,6 +1,5 @@
 streamlit
 streamlit-option-menu
-pickle  # If you're using pickle5 (a backport of pickle for Python versions 3.7 and earlier)
 pandas
 numpy
 scikit-learn
