@@ -39,7 +39,7 @@ st.markdown(f"""
 # Load Models
 models = {
     'diabetes': pickle.load(open('diabetes_model.sav', 'rb')),
-    'parkinsons': pickle.load(open('parkinsons_model.sav', 'rb'))
+    'parkinsons': pickle.load(open('parkinson_model.sav', 'rb'))
 }
 
 # Dropdown menu
